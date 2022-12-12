@@ -20,5 +20,5 @@ Using a list comprehension and zip, create a dictionary called letter_to_points 
 13. After the inner loop ends, set the current player value to be a key of player_to_points, with a value of player_points.
 14. player_to_points should now contain the mapping of players to how many points they’ve scored. Print this out to see the current standings for this game!
 15. If you want extended practice, try to implement some of these ideas with the Python you’ve learned:
-   - make your letter_to_points dictionary able to handle lowercase inputs as well
+      - make your letter_to_points dictionary able to handle lowercase inputs as well
  
